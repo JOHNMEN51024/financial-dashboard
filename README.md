@@ -1,2 +1,0 @@
-# financial-dashboard
-financial-dashboard
